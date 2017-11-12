@@ -1,8 +1,8 @@
 name="[COLOR magenta]- Kodi 16.x (Jarvis) Forks - Android 4.2+[/COLOR]"
 section="yes"
 url="http://"
-icon="https://archive.org/download/KleptoKodiBackground/icon.png"
-fanart="https://archive.org/download/KleptoKodiBackground/fanart.jpg"
+icon="http://"
+fanart="http://"
 adult="No"
 description="Jarvis Forks for Android 4.2 and above"
 
