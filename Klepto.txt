@@ -1,5 +1,5 @@
 name="Klepto Mimic"
-version="2.1"
+version="2.2"
 url="https://archive.org/download/KleptoBuilds/Klepto.Mimic.zip"
 gui="http://"
 kodi="16.1"
