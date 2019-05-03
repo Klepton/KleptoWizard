@@ -47,4 +47,3 @@ fanart="https://archive.org/download/KleptoImages/fanart.jpg"
 preview="http://"
 adult="No"
 description="LITE, family-friendly Krypton build for low-powered devices, by Klepto -- based on Aeon Nox SiLVO skin"
-
