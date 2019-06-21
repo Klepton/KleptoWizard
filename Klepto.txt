@@ -35,7 +35,7 @@ adult="No"
 description="Family-friendly build for Kodi 17.x or Krypton forks, by Klepto -- based on Klepto Nox SiLVO skin"
 
 name="Klepto SiLVO LITE"
-version="2.1"
+version="2.2"
 url="https://archive.org/download/KleptoBuilds/Klepto.SiLVO.LITE.zip"
 gui="http://"
 kodi="17.6"
