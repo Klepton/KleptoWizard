@@ -1,0 +1,12 @@
+1
+|||
+Thank You for choosing [B][COLOR magenta]Klepto[/COLOR][/B] Builds!
+
+The latest version of the [B][COLOR magenta]Klepto SiLVO[/COLOR][/B] is [B][COLOR magenta]v3.2![/COLOR][/B]
+The latest version of the wizard is always inclued in the version of the Klepto Builds.
+
+The latest version of the [B][COLOR magenta]Klepto SiLVO[/COLOR][/B] is [B][COLOR magenta]v2.3![/COLOR][/B]
+If you are using an older version, please use the Klepto Wizard to download the latest version of this build.
+
+The [B][COLOR magenta]Klepto SiLVO LITE[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
+If you are using an older version, please use the Klepto Wizard to download the latest version of this build.
