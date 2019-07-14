@@ -5,7 +5,7 @@
 The [B][COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR][/B] has been updated to [B][COLOR magenta]v3.2![/COLOR][/B]
 The latest version of the wizard is always included in the latest version of the Klepto Builds.
 
-The [B][COLOR cyan]Klepto [COLOR cyan]SiLVO[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
+The [B][COLOR cyan]Klepto [COLOR magenta]SiLVO[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
 If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.
 
 The [B][COLOR cyan]Klepto [COLOR magenta]SiLVO LITE[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
