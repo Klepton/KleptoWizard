@@ -1,6 +1,6 @@
 3
 |||
-[COLOR black}Thank You for choosing [B][COLOR cyan]Klepto[/COLOR][/B] Builds!  You should ALWAYS do a FRESH INSTALL of a build!
+[COLOR black]Thank You for choosing [B][COLOR cyan]Klepto[/COLOR][/B] Builds!  You should ALWAYS do a FRESH INSTALL of a build!
 
 The [B][COLOR cyan]Klepto [COLOR magenta]Wizard[/COLOR][/B] has been updated to [B][COLOR magenta]v3.2![/COLOR][/B]
 The latest version of the wizard is always included in the latest version of the Klepto Builds.
