@@ -1,12 +1,12 @@
 3
 |||
-[COLOR black]Thank You for choosing [B][COLOR cyan]Klepto[/COLOR][/B] Builds!  You should ALWAYS do a FRESH INSTALL of a build!
+[B][COLOR black]Thank You for choosing [COLOR cyan]Klepto[/COLOR] Builds!  You should ALWAYS do a FRESH INSTALL of a build!
 
-The [B][COLOR cyan]Klepto[/COLOR] [COLOR magenta]Wizard[/COLOR][/B] has been updated to [B][COLOR magenta]v3.2![/COLOR][/B]
+The [COLOR cyan]Klepto[/COLOR] [COLOR magenta]Wizard[/COLOR] has been updated to [COLOR magenta]v3.2![/COLOR]
 The latest version of the wizard is always included in the latest version of the Klepto Builds.
 
-The [B][COLOR cyan]Klepto[/COLOR] [COLOR magenta]SiLVO[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
+The [COLOR cyan]Klepto[/COLOR] [COLOR magenta]SiLVO[/COLOR] build has been updated to [COLOR magenta]v2.3![/COLOR]
 If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.
 
-The [B][COLOR cyan]Klepto[/COLOR] [COLOR magenta]SiLVO LITE[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
-If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.[/COLOR]
+The [COLOR cyan]Klepto[/COLOR] [COLOR magenta]SiLVO LITE[/COLOR] build has been updated to [COLOR magenta]v2.3![/COLOR]
+If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.[/COLOR][/B]
