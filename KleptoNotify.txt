@@ -9,4 +9,4 @@ The [B][COLOR cyan]Klepto [COLOR cyan]SiLVO[/COLOR][/B] build has been updated t
 If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.
 
 The [B][COLOR cyan]Klepto [COLOR magenta]SiLVO LITE[/COLOR][/B] build has been updated to [B][COLOR magenta]v2.3![/COLOR][/B]
-If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.
+If you did not get an update notification, and you are currently using an older version, please use the Klepto Wizard to download the latest version of this build.[/COLOR]
